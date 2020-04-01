@@ -1,0 +1,2 @@
+# QuakeBot
+epic discord bot
