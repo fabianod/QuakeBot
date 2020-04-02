@@ -95,6 +95,6 @@ $server - Shows best server invite
 	except Exception as e:
     		log("Error", e)
 
-client.run("Njk0ODU5NDgzMjU1NTM3Njk1.XoSSBg.-M3t763ItAyOdVgV0MNqjmSse20")
+client.run("uwu")
 logfile.close()
 
